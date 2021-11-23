@@ -110,11 +110,4 @@ export class App extends React.Component<{}, { selectedGoods: string[] }> {
   }
 }
 
-// const App: React.FC = () => (
-//   <div className="App">
-//     <h1>Selected good</h1>
-//     {goodsFromServer.length}
-//   </div>
-// );
-
 export default App;
