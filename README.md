@@ -1,5 +1,5 @@
 # React Goods selector
-[DEMO LINK](https://tanyakovchuk.github.io/react_goods-selector/)
+[DEMO LINK](https://tanyakovchuk.github.io/react_goods-selector-TS/)
 
 ## Task
 1. You are given an array of goods
